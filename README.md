@@ -1,1 +1,1 @@
-# diskpart_cheat_sheet.ps1
+This is a little cheat-sheet I used to wipe my thumb drive and then create a new partition and filesystem on it. Unfortunately I couldn't get these commands to run as a PowerShell script (apparently diskpart is a little tricky), but the commands worked just fine when I entered them manually in the terminal.
